@@ -419,9 +419,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>device</GroupName>
-        </Group>
-        <Group>
           <GroupName>common</GroupName>
           <Files>
             <File>
